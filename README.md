@@ -1,6 +1,6 @@
 ### Hi, I am Aditya! 👋
 
-- 🔭 I’m currently working as a Business Analyst.
+- 🔭 I’m currently working as a Senior Analyst.
 - 🌱 I’m currently learning Data Science.
 - 📫 How to reach me: [LinkedIn - Aditya Jaiswal](https://www.linkedin.com/in/aditya-jaiswal-ba1ba1a0/)
 
